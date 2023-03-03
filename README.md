@@ -1,10 +1,10 @@
 Hi, I’m @Northernite
 
-I'm an FNF modder, being a jack of all trades (learning code)
+I'm an Gamedev, being a jack of all trades (learning code)
 - I’m currently learning Python and HTML.
 
 
-You can reach me on Twitter by @Northernite1
+I own silk rock alongside @Rebmiami, we are working on some projects currently!
 
 <!---
 Northernite/Northernite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
