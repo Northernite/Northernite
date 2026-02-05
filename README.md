@@ -1,10 +1,9 @@
-Hi, I’m @Northernite
+Hi, I’m Nina.Northen
+I'm a jack of all trades Game Developer and Content Creator
+- I’m currently learning Lua, Python, Haxe, and HTML.
 
-I'm an Gamedev, being a jack of all trades (learning code)
-- I’m currently learning Python and HTML.
 
-
-I own silk rock alongside @Rebmiami, we are working on some projects currently!
+I own @silk-rock alongside @Rebmiami, we are working on some projects currently!
 
 <!---
 Northernite/Northernite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
